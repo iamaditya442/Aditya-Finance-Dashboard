@@ -7,29 +7,25 @@ This project is a Finance Dashboard UI built as part of a frontend assignment. I
 The project is frontend-only and uses mock data to simulate real-world financial tracking.
 
 ---
-<img width="1366" height="768" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/f47891a9-9636-423b-9c9c-dbc4d8d73057" />
-<img width="1366" height="768" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/d35e0c57-13e8-45f4-836e-990ca4d2e024" />
 
 ## 📸 Project Screenshots
-<img width="1366" height="768" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/40d8aaa6-a270-406a-aace-6bd8cb1e0094" />
 
-<img width="1301" height="636" alt="Screenshot 2026-04-05 224605" src="https://github.com/user-attachments/assets/d5436af5-ea94-40b5-b888-dc8d5973f8fe" />
-
-<img width="1366" height="768" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/77c816fd-4cb0-4f36-a8f3-45bfb0dc4fdb" />
 
 
 <p align="center">
-  <img src="images/img1.png" width="45%" />
-  <img src="images/img2.png" width="45%" />
+<img width="1301" height="636" alt="Screenshot 2026-04-05 224605" src="https://github.com/user-attachments/assets/a37f30a1-7b0f-42b9-8868-a309f65f7e11" />
+<img width="1366" height="768" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/afca155a-744f-45db-9da4-e186c80d9ae5" />
+</p>
+
+
+<p align="center">
+<img width="1366" height="768" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/0e1fea13-575c-4cd9-b421-1e8103aeda84" />
+<img width="1366" height="768" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/7e3e8a30-9450-41f2-9f77-4c274417a161" />
 </p>
 
 <p align="center">
-  <img src="images/img3.png" width="45%" />
-  <img src="images/img4.png" width="45%" />
-</p>
+<img width="1366" height="768" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/00e29244-0945-4d56-badc-72e424b9cb3a" />
 
-<p align="center">
-  <img src="images/img5.png" width="45%" />
 </p>
 
 ---
